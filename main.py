@@ -1,1 +1,1 @@
-print("Where are your fingers")
+print("Where are fingers")
